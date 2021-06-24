@@ -1,1 +1,1 @@
-# SVMs-linear-vs-non-linear-kernels
+In this project, the aim is to improve the performance of linear SVMs by implementing them in kernel space. As a result, they are better to capture non-linearities in the data. We do so by formulating both the primal and the dual optimization problem and by using cvxpy and its quadratic programming solver. 
